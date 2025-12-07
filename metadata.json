@@ -1,0 +1,8 @@
+{
+  "name": "teste Portal Colaborador & Menus",
+  "description": "Aplicativo corporativo para gestão de menus, documentos e cadastro de funcionários com suporte de IA Gemini.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
